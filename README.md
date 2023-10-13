@@ -12,5 +12,6 @@ git add.
 git commit.
 git push.
 git pull.
+git commit -ammed
 
 # working_directory
