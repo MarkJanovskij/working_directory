@@ -6,12 +6,14 @@ It is realy important steps to add the coments and prepare for push
 3 git push to send it to out source repositorium
 git init.
 git clone.
-git branch.
+git branch -M main.
 git checkout.
 git add.
 git commit.
 git push.
 git pull.
 git commit -ammed
+git remote add origin
+git pusg -u origin main
 
 # working_directory
