@@ -12,7 +12,7 @@ git add.
 git commit.
 git push.
 git pull.
-git commit -ammed
+git commit -amend
 git remote add origin
 git pusg -u origin main
 
