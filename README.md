@@ -16,5 +16,6 @@ git commit -ammed
 git remote add origin
 git pusg -u origin main
 1.2.1 next step for automation
+Work with ignore files
 
 # working_directory
