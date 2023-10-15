@@ -15,5 +15,6 @@ git pull.
 git commit -ammed
 git remote add origin
 git pusg -u origin main
+1.2.1 next step for automation
 
 # working_directory
